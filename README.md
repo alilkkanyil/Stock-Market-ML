@@ -4,7 +4,7 @@ The project is inteded to predict stock prices based on the market data availabl
 # Description
 The project uses tensorflow and keras for machine learning, and yahoo finance API for pulling the data.
 By default, it will grab all the data of TSLA stock to train, but you can change the ticker name within the code.
-It is somewhat accurate, though I would not give it money.
+It is somewhat accurate for predicting the next day, though I would not give this one money at this stage. Ticker can be changed, as well as settings for the RNN.
 
 # Requirements
 * Python 3
