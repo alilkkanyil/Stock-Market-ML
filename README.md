@@ -17,4 +17,4 @@ It is somewhat accurate for predicting the next day, though I would not give thi
 * yahoo_fin
 * Anaconda virtual env recommended
 # Execution
-Use "Python3 trader_1.py" to run. On a separate terminal, you can use "tensorboard --logfile "logs" on the same folder in order to use tensorboard to check the results of the training. The trained model and the data is also saved on individual folders. More details can be found in the comments of the code.
+Use "python trader_1.py" to run. On a separate terminal, you can use "tensorboard --logfile "logs" on the same folder in order to use tensorboard to check the results of the training. The trained model and the data is also saved on individual folders. More details can be found in the comments of the code.
