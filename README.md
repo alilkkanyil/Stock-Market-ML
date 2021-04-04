@@ -15,6 +15,6 @@ It is somewhat accurate, though I would not give it money.
 * sklearn
 * pandas
 * yahoo_fin
-
+* Anaconda virtual env recommended
 # Execution
 Use "Python3 trader_1.py" to run. On a separate terminal, you can use "tensorboard --logfile "logs" on the same folder in order to use tensorboard to check the results of the training. The trained model and the data is also saved on individual folders. More details can be found in the comments of the code.
